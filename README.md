@@ -8,3 +8,5 @@ Neste diretorio temos 2 analises principais.
 
 
 b) Análise exploratoria e criacao de modelo preditivo para predicao de preço de aluguel de imoveis, usando dataset do Kaggle. 
+
+c) Alguns exemplos de códigos variados
