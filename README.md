@@ -1,5 +1,5 @@
 # Analise_dados
-Compartilhar análises de dados em dataset públicos 
+Análises de Dados e Modelos de Machine Learning 
 
 Neste diretorio temos 2 analises principais. 
 
